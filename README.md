@@ -40,7 +40,35 @@ I worked on the website structure, page layout, content placement, user flow, re
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](screenshots/home-page.png)
+![Homepage Screenshot](screenshots/home-page-1.png)
+![Homepage Screenshot](screenshots/home-page-2.png)
+![Homepage Screenshot](screenshots/home-page-3.png)
+![Homepage Screenshot](screenshots/home-page-4.png)
+![Homepage Screenshot](screenshots/home-page-5.png)
+![About Us Screenshot](screenshots/about-us-1.png)
+![About Us Screenshot](screenshots/about-us-2.png)
+![About Us Screenshot](screenshots/about-us-3.png)
+![About Us Screenshot](screenshots/about-us-4.png)
+![About Us Screenshot](screenshots/about-us-5.png)
+![About Us Screenshot](screenshots/about-us-6.png)
+![About Us Screenshot](screenshots/about-us-7.png)
+![Services Screenshot](screenshots/Services-1.png)
+![Services Screenshot](screenshots/Services-2.png)
+![Services Screenshot](screenshots/Services-3.png)
+![Services Screenshot](screenshots/Services-4.png)
+![Services Screenshot](screenshots/Services-5.png)
+![Services Screenshot](screenshots/Services-6.png)
+![Clients Screenshot](screenshots/clients-1.png)
+![Clients Screenshot](screenshots/clients-2.png)
+![Clients Screenshot](screenshots/clients-3.png)
+![Clients Screenshot](screenshots/clients-4.png)
+![Clients Screenshot](screenshots/clients-5.png)
+![Clients Screenshot](screenshots/clients-6.png)
+![Job Listings Screenshot](screenshots/Job-listing-1.png)
+![Job Listings Screenshot](screenshots/Job-listing-2.png)
+![Contact Us Screenshot](screenshots/Contact-us-1.png)
+![Contact Us Screenshot](screenshots/Contact-us-2.png)
+![Contact Us Screenshot](screenshots/Contact-us-3.png)
 
 ## Status
 Completed and live.
